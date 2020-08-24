@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "next_step",
+    "slug": "snack-6bef5387-8866-4891-970f-738690f28600",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "All student using this app for next step of your career #AfterSchool."
+  }
+}
