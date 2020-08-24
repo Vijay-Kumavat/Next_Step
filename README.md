@@ -18,6 +18,9 @@ All student using this app for next step of your career #AfterSchool. Nextstep o
    ► Create the new project and install reactnative :
     
         npm install -g expo-cli
+        
+   ► Create the project.
+   
         npx react-native init MyTestApp / expo init project
         
    ► choice the runprocess side and goto next step.
